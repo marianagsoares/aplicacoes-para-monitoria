@@ -1,0 +1,21 @@
+.itens-card{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px ;
+    width: 200px;
+}
+.btn{
+    width: 100px;
+}
+.btn:hover{
+    background-color: cyan;
+}
+
+.alinharbotao{
+    display: flex;
+    justify-content: center;
+}
+

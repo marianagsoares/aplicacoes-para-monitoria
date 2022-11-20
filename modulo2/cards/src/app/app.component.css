@@ -1,0 +1,9 @@
+.card-list{
+    background-color: rgb(192, 220, 220);
+   height: 100vh;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+   gap: 50px;
+   padding: 80px;
+}
